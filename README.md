@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm MOUAYED SABBAGH</h1>
 <h3 align="center">⭐️A passionate full-stack student at Holberton School⭐️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mouayedsb&label=Profile%20views&color=0e75b6&style=flat" alt="mouayedsb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mouayedsb" alt="mouayedsb" /></a> </p>
+![App Screenshot](https://miro.medium.com/v2/resize:fit:1400/1*rTQHJtqGsAUevVdjzXUMSQ.png)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MOUAYEDSB?tab=repositories](https://github.com/MOUAYEDSB?tab=repositories)
 
@@ -26,3 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouayedsb&show_icons=true&locale=en&layout=compact" alt="mouayedsb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouayedsb&show_icons=true&locale=en" alt="mouayedsb" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mouayedsb&label=Profile%20views&color=0e75b6&style=flat" alt="mouayedsb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mouayedsb" alt="mouayedsb" /></a> </p>
